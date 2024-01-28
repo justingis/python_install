@@ -12,3 +12,10 @@ Set Terminal Alias:
    - alias pip=pip3
 
 pip3 install --upgrade pip
+
+Create Python Virtual Environment
+
+Switch to project directory: (ex. cd /Users/justinhawley/repos/tutorial)
+python -m venv venv --system-site-packages
+Activate virtual environment: source venv/bin/activate
+Verify environment has GDAL package: pip list (can upgrade pip here as well: pip install --upgrade pip)
