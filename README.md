@@ -1,5 +1,5 @@
 # python_install
-Various code for getting Python up and running
+Various code for getting Python up and running and using a Jupyter Notebook
 
 macos Python install locations:
   - /Library/Frameworks/Python.framework/Versions/3.11/bin/python3
