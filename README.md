@@ -17,3 +17,11 @@ Create Python Virtual Environment:
 - Switch to project directory: (ex. cd /Users/justinhawley/repos/tutorial)
 - python -m venv venv --system-site-packages
 - Activate virtual environment: source venv/bin/activate
+- pip3 install --upgrade pip
+
+Install Jupyter Notebook
+ - pip3 install --upgrade pip
+ - pip3 install jupyter
+
+Start Jupyter Notebook:
+- jupyter notebook
